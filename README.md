@@ -12,7 +12,7 @@ I currently work as a Backend Python programmer.
 I'm studying Vuejs for personal projects.
 
 ### Skills
-- aws, dynamodb, lambda, cloudwat, codecommit
+- aws, dynamodb, lambda, codecommit
 - python, flask, fastapi, sqlalchemy
 - javascript, vuejs
 - php, codeigniter
