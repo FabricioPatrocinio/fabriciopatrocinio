@@ -20,5 +20,8 @@ I'm studying Vuejs for personal projects.
 - mysql, postgres, mongodb
 - docker
 - git
+
+### Projects
+I have some projects using php with codeigniter, python with flask.
   
-### I use linux!
+### I use linux! :)
