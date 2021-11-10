@@ -10,14 +10,14 @@ I study programming since 2012, I have knowledge in fronten and backend. I gradu
 **Study:** I'm studying Vuejs for personal projects.
 
 **Skills:**
-- aws, dynamodb, lambda, codecommit
-- python, flask, fastapi, sqlalchemy
-- javascript, vuejs
-- php, codeigniter
-- html, css, bootstrap
-- mysql, postgres, mongodb
-- docker
-- git
+- AWS, Dynamodb, Lambda, CodeCommit
+- Python: pytest, flask, fastapi, sqlalchemy
+- Javascript: Vuejs
+- PHP: codeigniter
+- HTML, CSS, Bootstrap
+- MySQL, Postgres, Mongodb
+- Docker
+- Git
 
 **Projects:** I have some projects using php with codeigniter, python with flask.
   
