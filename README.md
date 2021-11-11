@@ -1,4 +1,3 @@
-### Hi! I'm Fabricio Patrocinio
 I study programming since 2012, I have knowledge in fronten and backend. I graduated in Computer Technician and graduated in Information Systems 6/8.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-patrocinio/)](https://www.linkedin.com/in/fabricio-patrocinio/)
