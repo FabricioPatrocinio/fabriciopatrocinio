@@ -10,9 +10,9 @@ I study programming since 2012, I have knowledge in fronten and backend. I gradu
 
 **Skills:**
 - AWS: Dynamodb, Lambda, CodeCommit
-- Python: pytest, flask, fastapi, sqlalchemy
+- Python: Pytest, Flask, Fastapi, SQLAlchemy
 - Javascript: Vuejs
-- PHP: codeigniter
+- PHP: Codeigniter
 - HTML, CSS, Bootstrap
 - MySQL, Postgres, Mongodb
 - Docker
