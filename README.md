@@ -1,4 +1,4 @@
-I study programming since 2012, I have knowledge in fronten and backend. I graduated in Computer Technician and graduated in Information Systems 6/8.
+I study programming, I have knowledge in fronten and backend. I graduated in Computer Technician and graduated in Information Systems 6/8.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-patrocinio/)](https://www.linkedin.com/in/fabricio-patrocinio/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/fabricio_patrocinio_/)](https://www.instagram.com/fabricio_patrocinio_/)
