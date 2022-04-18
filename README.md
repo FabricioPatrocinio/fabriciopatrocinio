@@ -9,13 +9,13 @@ I study programming, I have knowledge in fronten and backend. I graduated in Com
 **Study:** I'm studying Vuejs for personal projects.
 
 **Skills:**
-- AWS: Dynamodb, Lambda, CodeCommit
 - Python: Pytest, Flask, Fastapi, SQLAlchemy
+- AWS services
 - Javascript: Vuejs
 - Elixir (Studying)
 - PHP: Codeigniter
 - HTML, CSS, Bootstrap
-- MySQL, Postgres, Mongodb
+- MySQL, Postgres, Mongodb, Dynamodb
 - Docker
 - Git
 
