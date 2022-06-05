@@ -1,3 +1,5 @@
+Hi, I'm Fabricio, and I'm also a software developer analyst.
+
 I study programming, I have knowledge in fronten and backend. I graduated in Computer Technician and graduated in Information Systems 7/8.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-patrocinio/)](https://www.linkedin.com/in/fabricio-patrocinio/)
@@ -13,10 +15,9 @@ I study programming, I have knowledge in fronten and backend. I graduated in Com
 - AWS services
 - Javascript: Vuejs
 - Elixir (Studying)
-- PHP: Codeigniter
 - HTML, CSS, Bootstrap
-- MySQL, Postgres, Mongodb, Dynamodb
-- Docker
+- MySQL, Postgres, Dynamodb
+- Docker, docker-compose
 - Git
 
 **Projects:** I have some projects using php with codeigniter, python with flask.
