@@ -14,7 +14,7 @@ I study programming, I have knowledge in fronten and backend. I graduated in Com
 - Python: Pytest, Flask, Fastapi, SQLAlchemy
 - AWS services
 - Javascript: Vuejs
-- Elixir (Studying)
+- Studying elixir and golang
 - HTML, CSS, Bootstrap
 - MySQL, Postgres, Dynamodb
 - Docker, docker-compose
