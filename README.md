@@ -17,7 +17,7 @@ I study programming, I have knowledge in fronten and backend. I graduated in Com
 - HTML, CSS, Bootstrap
 - MySQL, Postgres, Dynamodb
 - Docker, docker-compose
-- Git
+- Git, Splunk, Rancher, Databricks
 
 **Projects:** I have some projects using php with codeigniter, python with flask.
   
